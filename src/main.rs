@@ -1,6 +1,7 @@
 extern crate nalgebra;
 
 mod color;
+mod ray;
 
 use std::fs::File;
 use std::io::{self, Write};
